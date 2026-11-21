@@ -3,6 +3,24 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "q8I-wmLaMfs",
+      "title": "The lie: as a manager, you’ll never need to make a technical decision again",
+      "url": "https://www.youtube.com/shorts/q8I-wmLaMfs",
+      "channel": "The Pragmatic Engineer",
+      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+      "published": "2026-11-21T16:00:37+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/q8I-wmLaMfs/hqdefault.jpg"
+    },
+    {
+      "id": "BhhEhfJ4ao0",
+      "title": "Run 400B+ LLM Models on Your 4GB Laptop AirLLM",
+      "url": "https://www.youtube.com/watch?v=BhhEhfJ4ao0",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-21T15:30:14+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/BhhEhfJ4ao0/hqdefault.jpg"
+    },
+    {
       "id": "c9xCBROqB2E",
       "title": "The Free 32GB VRAM Server You Didn't Know Existed",
       "url": "https://www.youtube.com/watch?v=c9xCBROqB2E",
