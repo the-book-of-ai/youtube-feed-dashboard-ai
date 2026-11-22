@@ -3,6 +3,15 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "JNexz3Tbiu8",
+      "title": "Build the Workshop Before the Software Factory — Armin Ronacher, Earendil",
+      "url": "https://www.youtube.com/watch?v=JNexz3Tbiu8",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-22T20:00:27+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/JNexz3Tbiu8/hqdefault.jpg"
+    },
+    {
       "id": "1IxyDY94vLE",
       "title": "llama.cpp 1.0 Is Out Can It Finally Catch Strata?",
       "url": "https://www.youtube.com/watch?v=1IxyDY94vLE",
