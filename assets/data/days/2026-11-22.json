@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-22",
+  "timezone": "America/Los_Angeles",
+  "videos": [
+    {
+      "id": "1IxyDY94vLE",
+      "title": "llama.cpp 1.0 Is Out Can It Finally Catch Strata?",
+      "url": "https://www.youtube.com/watch?v=1IxyDY94vLE",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-22T15:30:27+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1IxyDY94vLE/hqdefault.jpg"
+    },
+    {
+      "id": "0o93aKBvuYQ",
+      "title": "Data Agents over S3: Build the Missing Semantic Layer for Files - Dmitry Petrov, DataChain",
+      "url": "https://www.youtube.com/watch?v=0o93aKBvuYQ",
+      "channel": "Agentic AI Foundation",
+      "channel_id": "UCgkApalw5crKXOtr_mqtPQg",
+      "published": "2026-11-22T15:00:18+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0o93aKBvuYQ/hqdefault.jpg"
+    },
+    {
+      "id": "xDnheQC5GIg",
+      "title": "Multi-Agent SRE: What Happens When Your Agents Want Opposite Things - Aditi Mewada, Apple",
+      "url": "https://www.youtube.com/watch?v=xDnheQC5GIg",
+      "channel": "Agentic AI Foundation",
+      "channel_id": "UCgkApalw5crKXOtr_mqtPQg",
+      "published": "2026-11-22T15:00:07+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/xDnheQC5GIg/hqdefault.jpg"
+    },
+    {
+      "id": "IYVqarjWO2g",
+      "title": "AI Accelerators vs. CPUs: Why They Think Differently",
+      "url": "https://www.youtube.com/watch?v=IYVqarjWO2g",
+      "channel": "IBM Technology",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "published": "2026-11-22T12:00:34+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/IYVqarjWO2g/hqdefault.jpg"
+    },
+    {
+      "id": "vVxujZS4hFA",
+      "title": "Local AI is No Longer an Option. Here is Why",
+      "url": "https://www.youtube.com/watch?v=vVxujZS4hFA",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-22T10:30:18+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/vVxujZS4hFA/hqdefault.jpg"
+    }
+  ]
+}
