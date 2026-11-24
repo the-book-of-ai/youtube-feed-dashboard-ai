@@ -3,6 +3,24 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "-NFMsM2y0Vk",
+      "title": "12 Rules for a Software Factory That Doesn't Ship Slop — Dex Horthy, Factory",
+      "url": "https://www.youtube.com/watch?v=-NFMsM2y0Vk",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-23T20:00:40+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-NFMsM2y0Vk/hqdefault.jpg"
+    },
+    {
+      "id": "W9-fXb1lqos",
+      "title": "Radiance Made AMD's 32GB GPU Run LLM 4x Faster!",
+      "url": "https://www.youtube.com/watch?v=W9-fXb1lqos",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-23T15:30:20+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/W9-fXb1lqos/hqdefault.jpg"
+    },
+    {
       "id": "h4tHDFCPmQE",
       "title": "Vibe Coding vs. Agentic Coding: Which Should You Use?",
       "url": "https://www.youtube.com/watch?v=h4tHDFCPmQE",
