@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-25",
+  "timezone": "America/Los_Angeles",
+  "videos": [
+    {
+      "id": "CSRrqRC9QJA",
+      "title": "10 GPUs You Should Get for Local AI Before Qwen 4's Release!",
+      "url": "https://www.youtube.com/watch?v=CSRrqRC9QJA",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-25T15:30:19+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/CSRrqRC9QJA/hqdefault.jpg"
+    },
+    {
+      "id": "Xyb1Bn_L2U4",
+      "title": "How 21 People Built a $100M+ Agent Company — Quinn Slack, Amp",
+      "url": "https://www.youtube.com/watch?v=Xyb1Bn_L2U4",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-25T14:00:31+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/Xyb1Bn_L2U4/hqdefault.jpg"
+    },
+    {
+      "id": "51rbs_HA3m4",
+      "title": "OpenAI's $1.2M bug hunt, Grok Bot after dark & Optimizely malware",
+      "url": "https://www.youtube.com/watch?v=51rbs_HA3m4",
+      "channel": "IBM Technology",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "published": "2026-11-25T10:30:58+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/51rbs_HA3m4/hqdefault.jpg"
+    }
+  ]
+}
