@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-26",
+  "timezone": "America/Los_Angeles",
+  "videos": [
+    {
+      "id": "tWQDeS3EXxk",
+      "title": "I ran Qwen3.8 27B on single 8GB Card!",
+      "url": "https://www.youtube.com/watch?v=tWQDeS3EXxk",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-26T15:30:29+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tWQDeS3EXxk/hqdefault.jpg"
+    },
+    {
+      "id": "gEiM4HBtPAU",
+      "title": "Are We Ready? Dexter Horthy, Allie Howe, Andrew Becherer & Scott Johnston",
+      "url": "https://www.youtube.com/watch?v=gEiM4HBtPAU",
+      "channel": "Agentic AI Foundation",
+      "channel_id": "UCgkApalw5crKXOtr_mqtPQg",
+      "published": "2026-11-26T15:00:10+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/gEiM4HBtPAU/hqdefault.jpg"
+    },
+    {
+      "id": "QcRXgSNsgb4",
+      "title": "Agent Governance Lives in the OS - Alexander Sklar & Roberth Karman, Microsoft",
+      "url": "https://www.youtube.com/watch?v=QcRXgSNsgb4",
+      "channel": "Agentic AI Foundation",
+      "channel_id": "UCgkApalw5crKXOtr_mqtPQg",
+      "published": "2026-11-26T15:00:09+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/QcRXgSNsgb4/hqdefault.jpg"
+    },
+    {
+      "id": "ff5o3F_SKO0",
+      "title": "Why would I ever Fine-Tune a Model? - Ariel Shulman, Nvidia",
+      "url": "https://www.youtube.com/watch?v=ff5o3F_SKO0",
+      "channel": "Agentic AI Foundation",
+      "channel_id": "UCgkApalw5crKXOtr_mqtPQg",
+      "published": "2026-11-26T15:00:08+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/ff5o3F_SKO0/hqdefault.jpg"
+    },
+    {
+      "id": "1S4hx3wgvBE",
+      "title": "Stop Building Software Factories — Justin McCarthy, Diffusion",
+      "url": "https://www.youtube.com/watch?v=1S4hx3wgvBE",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-26T14:00:20+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1S4hx3wgvBE/hqdefault.jpg"
+    },
+    {
+      "id": "_iTbNy5aOR0",
+      "title": "AI Agent Architecture: Where Does Your Agent Actually Run?",
+      "url": "https://www.youtube.com/watch?v=_iTbNy5aOR0",
+      "channel": "IBM Technology",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "published": "2026-11-26T12:00:20+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/_iTbNy5aOR0/hqdefault.jpg"
+    }
+  ]
+}
