@@ -3,6 +3,24 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "wrfbI5eyLAI",
+      "title": "1,000 Claude Agents Formalized Fermat's Last Theorem — Lance Martin, Anthropic",
+      "url": "https://www.youtube.com/watch?v=wrfbI5eyLAI",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-25T20:00:32+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/wrfbI5eyLAI/hqdefault.jpg"
+    },
+    {
+      "id": "9oNvKMd7xJo",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://www.youtube.com/watch?v=9oNvKMd7xJo",
+      "channel": "The Pragmatic Engineer",
+      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+      "published": "2026-11-25T17:26:20+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/9oNvKMd7xJo/hqdefault.jpg"
+    },
+    {
       "id": "CSRrqRC9QJA",
       "title": "10 GPUs You Should Get for Local AI Before Qwen 4's Release!",
       "url": "https://www.youtube.com/watch?v=CSRrqRC9QJA",
