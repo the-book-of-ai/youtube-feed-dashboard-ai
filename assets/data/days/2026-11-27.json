@@ -3,6 +3,24 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "NGS9OUbCpbs",
+      "title": "PolyStrata Runs Qwen at 67 Tokens/s With 1M Context",
+      "url": "https://www.youtube.com/watch?v=NGS9OUbCpbs",
+      "channel": "Kai",
+      "channel_id": "UCgUfJoPtkt7-RiiuYh4vmGA",
+      "published": "2026-11-27T15:30:30+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/NGS9OUbCpbs/hqdefault.jpg"
+    },
+    {
+      "id": "cYcYfM9Mvwo",
+      "title": "Why Cloudflare Became a Neolab — Michelle Chen, Cloudflare",
+      "url": "https://www.youtube.com/watch?v=cYcYfM9Mvwo",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-27T14:00:04+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/cYcYfM9Mvwo/hqdefault.jpg"
+    },
+    {
       "id": "8zo0sFIhTPI",
       "title": "Is AI too pessimistic? Plus, Jensen Huang returns to NVIDIA",
       "url": "https://www.youtube.com/watch?v=8zo0sFIhTPI",
