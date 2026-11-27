@@ -3,6 +3,15 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "K5_ST-kMrvY",
+      "title": "Stop Paying LLM Prices for Yes-or-No Answers — Chinmay Goyal, Glean",
+      "url": "https://www.youtube.com/watch?v=K5_ST-kMrvY",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-27T20:00:36+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/K5_ST-kMrvY/hqdefault.jpg"
+    },
+    {
       "id": "NGS9OUbCpbs",
       "title": "PolyStrata Runs Qwen at 67 Tokens/s With 1M Context",
       "url": "https://www.youtube.com/watch?v=NGS9OUbCpbs",
