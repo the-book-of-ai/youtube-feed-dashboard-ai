@@ -3,6 +3,15 @@
   "timezone": "America/Los_Angeles",
   "videos": [
     {
+      "id": "bFcob2p6u3A",
+      "title": "Execution Is Free. How Ambitious Are You? — Jason Liu, OpenAI",
+      "url": "https://www.youtube.com/watch?v=bFcob2p6u3A",
+      "channel": "AI Engineer",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "published": "2026-11-26T20:00:28+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/bFcob2p6u3A/hqdefault.jpg"
+    },
+    {
       "id": "tWQDeS3EXxk",
       "title": "I ran Qwen3.8 27B on single 8GB Card!",
       "url": "https://www.youtube.com/watch?v=tWQDeS3EXxk",
